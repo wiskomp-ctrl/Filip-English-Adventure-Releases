@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10010,
-  "versionName": "1.2.2-test",
-  "notes": "Animowane opowieści, polskie podpowiedzi, piosenki o Filipie, lepszy skok i wygodne aktualizacje. Usunięto napis „Twoja przygoda 2D”.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.2.2-test/Filip-English-Adventure-1.2.2-test.apk",
-  "sha256": "8e712da9f5d14096c7fce3434cf9e6d5faf6f196724d50bcea18c94596e47c2e"
+  "versionCode": 10011,
+  "versionName": "1.3.0-test",
+  "sha256": "e9714b83966c1ce20d084da672d2a494d6a43d68e9c50cf66ff2ce3c352aad71",
+  "notes": "Minecraft: 12 nowych słów, cztery miejsca, budowanie i zagadki. Stroje i nagrody, nowe statystyki, beżowy Lilo i 68 nowych nagrań.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.3.0-test/Filip-English-Adventure-1.3.0-test.apk"
 }
