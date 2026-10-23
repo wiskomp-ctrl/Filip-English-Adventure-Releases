@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10016,
-  "versionName": "1.5.2-test",
-  "notes": "Przytrzymywanie strzałek i skok dwoma palcami, nowe menu z sześcioma kafelkami, Postępy i rangi, ustawienia bez PIN-u, ładniejsze podłoża. Mechanizm małych łatek na kolejne wydania oraz wznawianie pobierania.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.2-test/Przygody-Filipa-1.5.2-test.apk",
-  "sha256": "e74fb22054c241a52fdbcb1026050177ed504e88cbce7f28e5019b439a929a83",
+  "versionCode": 10017,
+  "versionName": "1.5.3-test",
+  "notes": "Powrót dokładnie do przerwanej przygody po minimalizacji, blokadzie ekranu i ponownym uruchomieniu. Zapis pozycji, zadania, ćwiczeń i walki. Czas w tle nie zużywa czasu zabawy. Mała łatka dla 1.5.2.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.3-test/Przygody-Filipa-1.5.3-test.apk",
+  "sha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
   "deltas": [
     {
-      "baseCode": 10015,
-      "baseSha256": "f93d7a7ff87a83bec49a57512566b73b79878a722741120ad558f9b19f62856f",
-      "sha256": "b2636fae7d7c56a65bea3369fbd65efb5a4c82eecd96b9098ebed1872ca3bae5",
-      "bytes": 668353,
-      "targetBytes": 196860171,
-      "targetSha256": "e74fb22054c241a52fdbcb1026050177ed504e88cbce7f28e5019b439a929a83",
+      "baseCode": 10016,
+      "baseSha256": "e74fb22054c241a52fdbcb1026050177ed504e88cbce7f28e5019b439a929a83",
+      "sha256": "5f22f8f2f86f006c233411bb323211cd1de05434bbee8cb90b6654d8ba8d42eb",
+      "bytes": 684546,
+      "targetBytes": 196892943,
+      "targetSha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
       "copiedBytes": 195091521,
       "format": "FDELTA01",
-      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.2-test/Przygody-Filipa-10015-to-10016.fdelta"
+      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.3-test/Przygody-Filipa-10016-to-10017.fdelta"
     }
   ]
 }
