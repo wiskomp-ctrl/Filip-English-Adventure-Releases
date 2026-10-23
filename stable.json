@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10018,
-  "versionName": "1.6.0-test",
-  "notes": "Nowa przygoda Zombie i plecak do każdego stroju. Poprawione skiny, lektor piłkarski i przejścia. Ekran nie wygasza się podczas gry.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.6.0-test/Przygody-Filipa-1.6.0-test.apk",
-  "sha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
+  "versionCode": 10019,
+  "versionName": "1.7.0-test",
+  "notes": "Świąteczna przygoda, nagrody i ekwipunek do wszystkich strojów, krótkie finały słówek, duża nutka powtórki oraz usunięte automatyczne przerwy.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.0-test/Przygody-Filipa-1.7.0-test.apk",
+  "sha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
   "deltas": [
     {
-      "baseCode": 10017,
-      "baseSha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
-      "sha256": "c592cc2990e9e67de6bc9dda8538601b7496ba525b27380ebec1fa01a542b00a",
-      "bytes": 6032983,
-      "targetBytes": 202416609,
-      "targetSha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
-      "copiedBytes": 194229724,
+      "baseCode": 10018,
+      "baseSha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
+      "sha256": "685a946491e7da90b8d0896edda3fed5e8514ceb272642eb33ce2f8ca87b1b75",
+      "bytes": 7466103,
+      "targetBytes": 209371308,
+      "targetSha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
+      "copiedBytes": 199537379,
       "format": "FDELTA01",
-      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.6.0-test/Przygody-Filipa-10017-to-10018.fdelta"
+      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.0-test/Przygody-Filipa-10018-to-10019.fdelta"
     }
   ]
 }
