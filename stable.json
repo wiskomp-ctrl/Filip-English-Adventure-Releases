@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10019,
-  "versionName": "1.7.0-test",
-  "notes": "Świąteczna przygoda, nagrody i ekwipunek do wszystkich strojów, krótkie finały słówek, duża nutka powtórki oraz usunięte automatyczne przerwy.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.0-test/Przygody-Filipa-1.7.0-test.apk",
-  "sha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
+  "versionCode": 10020,
+  "versionName": "1.7.1-test",
+  "notes": "Ekwipunek RPG z kategoriami, plecaki za plecami postaci, dopasowane czapki, wyraźne ukończenie przygód i płynny ruch przy trzymaniu palca na planszy.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.1-test/Przygody-Filipa-1.7.1-test.apk",
+  "sha256": "44fc4a77b2fd910a5c764e98bf765fd2416408fd6c63d35843d373c4d9447767",
   "deltas": [
     {
-      "baseCode": 10018,
-      "baseSha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
-      "sha256": "685a946491e7da90b8d0896edda3fed5e8514ceb272642eb33ce2f8ca87b1b75",
-      "bytes": 7466103,
-      "targetBytes": 209371308,
-      "targetSha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
-      "copiedBytes": 199537379,
+      "baseCode": 10019,
+      "baseSha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
+      "sha256": "50cd00848abb3eaae036811f10337839ed898e976302ce1d9fceb79184dfc3a0",
+      "bytes": 894121,
+      "targetBytes": 209453228,
+      "targetSha256": "44fc4a77b2fd910a5c764e98bf765fd2416408fd6c63d35843d373c4d9447767",
+      "copiedBytes": 207133277,
       "format": "FDELTA01",
-      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.0-test/Przygody-Filipa-10018-to-10019.fdelta"
+      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.1-test/Przygody-Filipa-10019-to-10020.fdelta"
     }
   ]
 }
