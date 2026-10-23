@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10014,
-  "versionName": "1.5.0-test",
-  "notes": "LEGO i Halloween, nowe stroje i ćwiczenia, płynniejsze sterowanie oraz osobny przycisk skoku.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.0-test/Przygody-Filipa-1.5.0-test.apk",
-  "sha256": "ad53128c6b5f4b2ef56ca6f082d385f21e271f03ecd7765d2a103b994d2c4d8d"
+  "versionCode": 10015,
+  "versionName": "1.5.1-test",
+  "notes": "Stały panel sterowania, poprawione chodzenie i podłoże, nowa kolejność etapów oraz zachowanie zdobytych skinów.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.1-test/Przygody-Filipa-1.5.1-test.apk",
+  "sha256": "f93d7a7ff87a83bec49a57512566b73b79878a722741120ad558f9b19f62856f"
 }
