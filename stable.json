@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10013,
-  "versionName": "1.4.1-test",
-  "notes": "Przygody Filipa: pełne postacie i stroje bez importu, nowa ikona Filipa w czapce oraz widoczny komunikat o aktualizacji. Postępy zostają zachowane.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.4.1-test/Przygody-Filipa-1.4.1-test.apk",
-  "sha256": "daa93ac4fa428810287162e42aa9eacd1fa88842578d0794b02e009a45ab764a"
+  "versionCode": 10014,
+  "versionName": "1.5.0-test",
+  "notes": "LEGO i Halloween, nowe stroje i ćwiczenia, płynniejsze sterowanie oraz osobny przycisk skoku.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.0-test/Przygody-Filipa-1.5.0-test.apk",
+  "sha256": "ad53128c6b5f4b2ef56ca6f082d385f21e271f03ecd7765d2a103b994d2c4d8d"
 }
