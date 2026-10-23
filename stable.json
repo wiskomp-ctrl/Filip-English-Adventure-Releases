@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10017,
-  "versionName": "1.5.3-test",
-  "notes": "Powrót dokładnie do przerwanej przygody po minimalizacji, blokadzie ekranu i ponownym uruchomieniu. Zapis pozycji, zadania, ćwiczeń i walki. Czas w tle nie zużywa czasu zabawy. Mała łatka dla 1.5.2.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.3-test/Przygody-Filipa-1.5.3-test.apk",
-  "sha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
+  "versionCode": 10018,
+  "versionName": "1.6.0-test",
+  "notes": "Nowa przygoda Zombie i plecak do każdego stroju. Poprawione skiny, lektor piłkarski i przejścia. Ekran nie wygasza się podczas gry.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.6.0-test/Przygody-Filipa-1.6.0-test.apk",
+  "sha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
   "deltas": [
     {
-      "baseCode": 10016,
-      "baseSha256": "e74fb22054c241a52fdbcb1026050177ed504e88cbce7f28e5019b439a929a83",
-      "sha256": "5f22f8f2f86f006c233411bb323211cd1de05434bbee8cb90b6654d8ba8d42eb",
-      "bytes": 684546,
-      "targetBytes": 196892943,
-      "targetSha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
-      "copiedBytes": 195091521,
+      "baseCode": 10017,
+      "baseSha256": "4c9cff14f536a98a781647603832d40ea04764557451b1e3a15de3a677dd77b4",
+      "sha256": "c592cc2990e9e67de6bc9dda8538601b7496ba525b27380ebec1fa01a542b00a",
+      "bytes": 6032983,
+      "targetBytes": 202416609,
+      "targetSha256": "45fcdc3ca040b249adcccb2c3f1a2b590c6dcfef975a66ff878b738299426709",
+      "copiedBytes": 194229724,
       "format": "FDELTA01",
-      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.5.3-test/Przygody-Filipa-10016-to-10017.fdelta"
+      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.6.0-test/Przygody-Filipa-10017-to-10018.fdelta"
     }
   ]
 }
