@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "applicationId": "pl.filip.adventure.debug",
-  "versionCode": 10020,
-  "versionName": "1.7.1-test",
-  "notes": "Ekwipunek RPG z kategoriami, plecaki za plecami postaci, dopasowane czapki, wyraźne ukończenie przygód i płynny ruch przy trzymaniu palca na planszy.",
-  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.1-test/Przygody-Filipa-1.7.1-test.apk",
-  "sha256": "44fc4a77b2fd910a5c764e98bf765fd2416408fd6c63d35843d373c4d9447767",
+  "versionCode": 10021,
+  "versionName": "1.8.0-test",
+  "notes": "Nowe zabawy językowe we wszystkich 10 przygodach: pary, zdania, liczenie, litery i powtórki. Finały wymagają odpowiedzi. Bardziej wymagający zombie z tarczą i uskokiem, świąteczny turniej Grincha oraz różnorodne polskie głosy.",
+  "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.8.0-test/Przygody-Filipa-1.8.0-test.apk",
+  "sha256": "c38d0bad30bc6685e1e7ec7196d4ef655828aa58b314a7f60e0282e8f4a52772",
   "deltas": [
     {
-      "baseCode": 10019,
-      "baseSha256": "71ac731cb88a5b14318876ed6e9c7486c88131874fe25a001f3e5f71e2f8c1ec",
-      "sha256": "50cd00848abb3eaae036811f10337839ed898e976302ce1d9fceb79184dfc3a0",
-      "bytes": 894121,
-      "targetBytes": 209453228,
-      "targetSha256": "44fc4a77b2fd910a5c764e98bf765fd2416408fd6c63d35843d373c4d9447767",
-      "copiedBytes": 207133277,
+      "baseCode": 10020,
+      "baseSha256": "44fc4a77b2fd910a5c764e98bf765fd2416408fd6c63d35843d373c4d9447767",
+      "sha256": "f0d5dd21ab8b9a457efb40d23dd60da125ddae3a323cc079bff8300f5d6fb05c",
+      "bytes": 4387833,
+      "targetBytes": 213380287,
+      "targetSha256": "c38d0bad30bc6685e1e7ec7196d4ef655828aa58b314a7f60e0282e8f4a52772",
+      "copiedBytes": 207056717,
       "format": "FDELTA01",
-      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.7.1-test/Przygody-Filipa-10019-to-10020.fdelta"
+      "url": "https://github.com/wiskomp-ctrl/Filip-English-Adventure-Releases/releases/download/v1.8.0-test/Przygody-Filipa-10020-to-10021.fdelta"
     }
   ]
 }
